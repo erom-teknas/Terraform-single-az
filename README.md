@@ -3,7 +3,7 @@
 Welcome to my Terraform repository for setting up infrastructure on AWS. Let's take a tour of what I've got here:
 
 ## What's Inside? 🏗️
-![alt text](Terraform_AWS_Single_AZ.png)
+![alt text](images/Terraform_AWS_Single_AZ.png)
 
 My setup includes:
 
